@@ -1,0 +1,8 @@
+django==3.1.7
+djangorestframework==3.12.4
+pytils
+python-decouple
+psycopg2-binary==2.8.6
+django-rest-swagger==2.2.0
+drf-yasg==1.20.0
+pillow==8.2.0
